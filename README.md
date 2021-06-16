@@ -8,6 +8,6 @@ into a deep learning species distribution model.
 Scripts are sorted into the following sub-folders:
 
 * Data Preprocessing
-* Model Running
-* Result Interpretation
++ Model Running
+- Result Interpretation
 
