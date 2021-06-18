@@ -5,7 +5,7 @@ These scripts were created to facilitate the research on the effects of the addi
 into a deep learning species distribution model.
 
 The raw and uninterpreted outputs and results of these case studies can be
-requested from us. The data will then become available on our [Zenodo]() page.
+requested from us. The data will then become available on our [Zenodo](https://zenodo.org/record/4982207#.YMxzYWgzaUk) page.
 
 Scripts are sorted into the following sub-folders:
 
